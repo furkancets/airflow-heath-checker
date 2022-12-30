@@ -1,0 +1,1 @@
+docker start airflow-docker-airflow-scheduler-1
